@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <h1 style="margin: 0; border-bottom: none;"> <img src="assets/stepfun.svg" width="25" style="margin-right: 10px;"/>  StepTronOSS </h1>
 </div>
 
