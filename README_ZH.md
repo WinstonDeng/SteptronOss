@@ -1,11 +1,17 @@
+<div align="center"> 
+  <h1 style="margin: 0; border-bottom: none;"> <img src="assets/stepfun.svg" width="25" style="margin-right: 10px;"/>  StepTronOSS </h1>
+</div>
+
+<p align="center">
+    <a href="README.md">English</a>&nbsp; | &nbsp;<strong>简体中文</strong>
+</p>
+
 StepTronOSS 是一个面向大规模语言模型训练的轻量化框架，强调模块化配置、可复现实验，并支持在 SFT、RLVR 与评测流程上的快速迭代。它可仅依赖 PyTorch 运行训练，同时也支持通过单个算子替换实现加速。
 
-核心能力：
+## 核心能力：
 - 配置驱动的实验与动态校验（`cfshow` / `sanity_check`）
 - 灵活的多任务编排与启动工具
 - 可扩展的数据 / 优化器 / 模型栈，便于快速研究迭代
-
-英文版：`README.md`
 
 ## 文档
 

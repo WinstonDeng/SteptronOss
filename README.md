@@ -1,11 +1,18 @@
-StepTronOSS is a lightweight training framework for large-scale language models with a focus on modular configs, reproducible experiments, and fast iteration across SFT, RLVR, and evaluation workflows. It can run with only PyTorch as a dependency, while also supporting operator-level replacements for acceleration.
+<div align="center"> 
+  <h1 style="margin: 0; border-bottom: none;"> <img src="assets/stepfun.svg" width="25" style="margin-right: 10px;"/>  StepTronOSS </h1>
+</div>
 
-Key capabilities:
+<p align="center">
+    <strong>English</strong>&nbsp; | &nbsp;<a href="README_ZH.md">简体中文</a>
+</p>
+
+
+**StepTronOSS** is a lightweight **training framework** for large-scale language models with a focus on modular configs, reproducible experiments, and fast iteration across SFT, RLVR, and evaluation workflows. It can run with only PyTorch as a dependency, while also supporting operator-level replacements for acceleration.
+
+## Key capabilities:
 - Config-driven experiments with dynamic validation (`cfshow`, `sanity_check`)
 - Multi-task orchestration with flexible launch tooling
 - Extensible data/optimizer/model stacks for rapid research iteration
-
-Chinese version: `README_ZH.md`
 
 ## Docs
 
